@@ -30,3 +30,5 @@ members to sit in on board meetings and give advice on how to improve business o
 [![Image](https://user-images.githubusercontent.com/89418526/197423632-261daa26-e38e-4975-9c2e-ee19714d3a3c.svg)](https://www.linkedin.com/in/akhil-havaldar/)
 [![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahavaldar)
 
+## 🔆 Statistics
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahavaldar&theme=vue)
