@@ -14,19 +14,19 @@ members to sit in on board meetings and give advice on how to improve business o
 
 <img src="https://user-images.githubusercontent.com/89418526/197423033-4602425c-0247-43c2-9d9f-89ee9919111e.jpg" width=30% height=30%>
 
-## Skills
-### Technical
+## 🔔 Skills
+### 🔨 Technical
 ![](https://user-images.githubusercontent.com/89418526/197423131-2c7298f2-a390-4ddf-ad3f-fa214f4e1a44.svg) ![](https://user-images.githubusercontent.com/89418526/197423214-0f0a7dc5-37ec-4a6f-bc3b-483501df52fd.svg) ![](https://user-images.githubusercontent.com/89418526/197423382-616d6ada-6512-41c1-825a-91b5d1c6dc91.svg)
 ![](https://user-images.githubusercontent.com/89418526/197423410-bb6bcdab-b786-4fc6-9bf5-d19ab55a547c.svg) ![](https://user-images.githubusercontent.com/89418526/197423512-6adb5709-cf8e-4a52-921a-32fc31ad129e.svg)
 ![](https://user-images.githubusercontent.com/89418526/197423517-2087e465-592f-47db-a336-b813a161ea85.svg) ![](https://user-images.githubusercontent.com/89418526/197423521-bbc82b65-51bf-4ac2-abc3-0906ea13ae21.svg)
 ![](https://user-images.githubusercontent.com/89418526/197423542-992fd48e-f990-454a-8f57-35bcaa5d53f9.svg) ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-### Other
+### 🔑 Other
 ![](https://user-images.githubusercontent.com/89418526/197423426-e13ff682-d831-496c-a2c1-d580ec0ef092.svg)
 ![](https://user-images.githubusercontent.com/89418526/197423557-3babb9f0-921b-41d8-9cea-bc08dd405012.svg)
 ![](https://user-images.githubusercontent.com/89418526/197423572-12dfa4de-e8fe-4aba-b7bf-174e4f2a954a.svg)
 
-## Socials
+## 📧 Socials
 [![Image](https://user-images.githubusercontent.com/89418526/197423632-261daa26-e38e-4975-9c2e-ee19714d3a3c.svg)](https://www.linkedin.com/in/akhil-havaldar/)
 [![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahavaldar)
 
