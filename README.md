@@ -4,7 +4,7 @@
 
 💻 I have a strong passion for all things data. Data is everywhere, and what really fascinates me is the idea that we can tell countless stories just through simple data exploration. For example, we can understand the fitness journey of an athlete through data collected by their Apple Watch. We can use global emmissions data to develop policies in response to climate change. The possibilites are endless. My goal is to explore as many of these possibilites as I can, and use what I find to make meaningful contribution to the world.
 
-🌳 I also have a passion for environmental issues. As the VP of Marketing of Net Impact at UVa, I aim to spread awareness of pressing environmental topics 
+🌳 I also have a passion for environmental issues. As the VP of Marketing of Net Impact at UVa, I aim to spread awareness on pressing environmental topics 
 to the UVa student body and to local Charlottesville businesses. I also promote a program that matches Net Impact members with local non-profits. The goal is for 
 members to sit in on board meetings and give advice on how to improve business operations to meet sustainability goals. 
 
