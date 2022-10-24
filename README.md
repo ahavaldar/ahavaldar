@@ -1,6 +1,6 @@
 ## 👋 Hi all!
 ## 🚀 About Me - Akhil Havaldar
-🎓 I am a current 4th year student at the University of Virginia pursuing a B.A. in Economics and Statistics, with a minor in Data Science
+🎓 I am currently 4th year student at the University of Virginia pursuing a B.A. in Economics and Statistics, with a minor in Data Science
 
 💻 I have a strong passion for all things data. Data is everywhere, and what really fascinates me is the idea that we can tell countless stories just through simple data exploration. For example, we can understand the fitness journey of an athlete through data collected by their Apple Watch. We can use global emmissions data to develop policies in response to climate change. The possibilites are endless. My goal is to explore as many of these possibilites as I can, and use what I find to make meaningful contribution to the world.
 
