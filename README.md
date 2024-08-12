@@ -1,12 +1,12 @@
 ## 👋 Hi all!
 ## 🚀 About Me - Akhil Havaldar
-🎓 I am a statistics and economics graduate from the University of Virginia.
+🎓 I am a statistics and economics graduate from the University of Virginia. I am currently completing my M.S. in Data Science at Notre Dame. 
 
-💻 I have a strong passion for all things data. Data is everywhere, and what really fascinates me is the idea that we can tell countless stories just through simple data exploration. For example, we can understand the fitness journey of an athlete through data collected by their Apple Watch. We can use global emissions data to develop policies in response to climate change. The possibilities are endless. My goal is to explore as many of these possibilities as I can and use what I find to make meaningful contributions to the world.
+💻 I have a strong passion for all things data. Data is everywhere. What fascinates me is the idea that we can tell countless stories just through simple data exploration. For example, we can understand the fitness journey of an athlete through data collected by their Apple Watch. We can use global emissions data to develop policies in response to climate change. The possibilities are endless. My goal is to explore as many of these possibilities as I can and use what I find to make meaningful contributions to the world.
 
-🏈 I love to play and watch all different types of sports!  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cincinnati_Bengals_logo.svg/1024px-Cincinnati_Bengals_logo.svg.png" width=3.5% height=3.5%><img src="http://cdn.shopify.com/s/files/1/0480/9470/7866/collections/de5d5158f72626656fe2127883c849ca.jpg?v=1646870090" width=4.5% height=4.5%><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png" width=3% height=3%>
+🏈 Sports are another huge passion of mine  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cincinnati_Bengals_logo.svg/1024px-Cincinnati_Bengals_logo.svg.png" width=3.5% height=3.5%><img src="http://cdn.shopify.com/s/files/1/0480/9470/7866/collections/de5d5158f72626656fe2127883c849ca.jpg?v=1646870090" width=4.5% height=4.5%><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png" width=3% height=3%>
 
-🐶 Who doesn't love a dog picture? Here is one of my dog Finn!
+🐶 My family dog Finn
 
 <img src="https://user-images.githubusercontent.com/89418526/197423033-4602425c-0247-43c2-9d9f-89ee9919111e.jpg" width=30% height=30%>
 
